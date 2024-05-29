@@ -269,7 +269,7 @@
                             <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Web 2</h4>
-                                <p>Web</p>
+                                <p>WeB</p>
                             </div>
                             <div class="portfolio-links">
                                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
